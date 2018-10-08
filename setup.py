@@ -11,7 +11,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-#requirements = [ ]
+# requirements = [ ]
 with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
@@ -35,7 +35,8 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
     ],
-    description="MPC Boilerplate contains all the boilerplate you need to create a Python package for the MPC",
+    description="MPC Boilerplate contains all the boilerplate you need \
+to create a Python package for the MPC",
     install_requires=requirements,
     license="MIT license",
     long_description=readme + '\n\n' + history,
