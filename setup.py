@@ -11,7 +11,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-# requirements = [ ]
+#requirements = [ ]
 with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
@@ -35,19 +35,18 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
     ],
-    description="MPC Checker contains all the boilerplate you need \
-to create a Python package for the MPC",
+    description="MPC Boilerplate contains all the boilerplate you need to create a Python package for the MPC",
     install_requires=requirements,
     license="MIT license",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
-    keywords='mpcchecker',
-    name='mpcchecker',
-    packages=find_packages(include=['mpcchecker']),
+    keywords='mpc_boilerplate',
+    name='mpc_boilerplate',
+    packages=find_packages(include=['mpc_boilerplate']),
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/matthewjohnpayne/mpcchecker',
+    url='https://github.com/matthewjohnpayne/mpc_boilerplate',
     version='0.1.0',
     zip_safe=False,
 )
