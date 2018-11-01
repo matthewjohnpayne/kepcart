@@ -35,7 +35,7 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
     ],
-    description="MPC Boilerplate contains all the boilerplate you need \
+    description="MPC Checker contains all the boilerplate you need \
 to create a Python package for the MPC",
     install_requires=requirements,
     license="MIT license",

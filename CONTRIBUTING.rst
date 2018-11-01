@@ -38,8 +38,8 @@ and "help wanted" is open to whoever wants to implement it.
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
 
-MPC Boilerplate could always use more documentation, whether as part of the
-official MPC Boilerplate docs, in docstrings, or even on the web in blog posts,
+MPC Checker could always use more documentation, whether as part of the
+official MPC Checker docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Submit Feedback

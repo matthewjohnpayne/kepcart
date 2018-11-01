@@ -1,5 +1,5 @@
 ===============
-MPC Boilerplate
+MPC Checker
 ===============
 
 
@@ -16,7 +16,7 @@ MPC Boilerplate
 
 
 
-MPC Boilerplate contains all the boilerplate you need to create a Python package for the MPC
+MPC Checker contains all the boilerplate you need to create a Python package for the MPC
 
 
 * Free software: MIT license
