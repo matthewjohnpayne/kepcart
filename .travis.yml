@@ -18,10 +18,10 @@ env:
 # Command to run tests, e.g. python setup.py test
 script:
   - tox
-  - set -e
-  - <Command to build your docs>
-  - pip install doctr
-  - doctr deploy --built-docs <path/to/built/html/> <target-directory>
+  #- set -e
+  #- make -C docs html  # Build the documentation. 
+  #- pip install doctr
+  #- doctr deploy --built-docs docs/_build/html .  # Publish the documentation. 
 
 
 
