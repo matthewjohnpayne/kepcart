@@ -20,7 +20,7 @@ MPC Boilerplate contains all the boilerplate you need to create a Python package
 
 
 * Free software: MIT license
-* Documentation: https://mpc-boilerplate.readthedocs.io.
+* Documentation: https://mpc-boilerplate.readthedocs.io. or  or https://mpcutilities.readthedocs.io. ??? 
 
 
 Features
