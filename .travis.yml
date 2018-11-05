@@ -18,8 +18,8 @@ env:
 
 # Command to run tests, e.g. python setup.py test
 script:
-  # - pytest 
-  - tox
+  - pytest 
+  #- tox
   #- set -e
   #- make -C docs html  # Build the documentation. 
   #- pip install doctr
