@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Top-level package for MPC Boilerplate."""
+"""Top-level package for kepcart."""
 
 __author__ = """Matthew John Payne"""
 __email__ = 'mpayne@cfa.harvard.edu;matthewjohnpayne@gmail.com'

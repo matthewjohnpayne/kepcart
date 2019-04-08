@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = mpc_boilerplate
+SPHINXPROJ    = kepcart
 SOURCEDIR     = .
 BUILDDIR      = _build
 

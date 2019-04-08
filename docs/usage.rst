@@ -2,10 +2,10 @@
 Usage
 =====
 
-To use MPC Boilerplate in a project::
+To use kepcart in a project::
 
-    import mpc_boilerplate
+    import kepcart
 
 Details on the Snell's Law Function ... 
 
-.. autofunction:: mpc_boilerplate.refraction.snell
+.. autofunction:: kepcart.refraction.snell

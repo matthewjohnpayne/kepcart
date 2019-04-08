@@ -1,26 +1,26 @@
 ===============
-MPC Boilerplate
+kepcart
 ===============
 
 
-.. image:: https://img.shields.io/pypi/v/mpc_boilerplate.svg
-        :target: https://pypi.python.org/pypi/mpc_boilerplate
+.. image:: https://img.shields.io/pypi/v/kepcart.svg
+        :target: https://pypi.python.org/pypi/kepcart
 
-.. image:: https://img.shields.io/travis/matthewjohnpayne/mpc_boilerplate.svg
-        :target: https://travis-ci.org/matthewjohnpayne/mpc_boilerplate
+.. image:: https://img.shields.io/travis/matthewjohnpayne/kepcart.svg
+        :target: https://travis-ci.org/matthewjohnpayne/kepcart
 
-.. image:: https://readthedocs.org/projects/mpc-boilerplate/badge/?version=latest
-        :target: https://mpc-boilerplate.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/kepcart/badge/?version=latest
+        :target: https://kepcart.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
 
 
-MPC Boilerplate contains all the boilerplate you need to create a Python package for the MPC
+kepcart contains all the boilerplate you need to create a Python package for the MPC
 
 
 * Free software: MIT license
-* Documentation: https://mpc-boilerplate.readthedocs.io. or  or https://mpcutilities.readthedocs.io. ??? 
+* Documentation: https://kepcart.readthedocs.io. or  or https://mpcutilities.readthedocs.io. ??? 
 
 
 Features

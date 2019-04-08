@@ -1,4 +1,4 @@
-Welcome to MPC Boilerplate's documentation!
+Welcome to kepcart's documentation!
 ======================================
 
 .. toctree::

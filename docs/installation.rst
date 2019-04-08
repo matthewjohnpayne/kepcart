@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install MPC Boilerplate, run this command in your terminal:
+To install kepcart, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install mpc_boilerplate
+    $ pip install kepcart
 
-This is the preferred method to install MPC Boilerplate, as it will always install the most recent stable release.
+This is the preferred method to install kepcart, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -26,19 +26,19 @@ you through the process.
 From sources
 ------------
 
-The sources for MPC Boilerplate can be downloaded from the `Github repo`_.
+The sources for kepcart can be downloaded from the `Github repo`_.
 
 You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/matthewjohnpayne/mpc_boilerplate
+    $ git clone git://github.com/matthewjohnpayne/kepcart
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl  -OL https://github.com/matthewjohnpayne/mpc_boilerplate/tarball/master
+    $ curl  -OL https://github.com/matthewjohnpayne/kepcart/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/matthewjohnpayne/mpc_boilerplate
-.. _tarball: https://github.com/matthewjohnpayne/mpc_boilerplate/tarball/master
+.. _Github repo: https://github.com/matthewjohnpayne/kepcart
+.. _tarball: https://github.com/matthewjohnpayne/kepcart/tarball/master
